@@ -10,3 +10,6 @@
 
 ## ***Библиотеки:***
 *Pandas, Nampy, Matplotlib, Scipy, Seaborn, Phik*
+
+## ***Статус проекта:***
+*завершен*
